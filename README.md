@@ -32,12 +32,7 @@
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
 </div>
-![generated-image](https://github.com/user-attachments/assets/df5c46e1-df8a-49de-bf12-91f290d25a7a)
 
 ###
+<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/a7dd54bd-25bd-488c-a07e-b828130f6941" />
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/elmorshedy96/elmorshedy96/output/snake.svg" alt="Snake animation" />
-
-###
